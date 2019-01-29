@@ -8,7 +8,7 @@ public class Test {
 		//hi shashi
 		System.out.println("HelloWorld!!!");
 		System.out.println("changes from sts workspace");
-		//System.out.println("changes done by shashi dude");
+		System.out.println("changes done by shashi dude");
 	}
 
 }
